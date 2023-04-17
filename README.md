@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/25645192/232580387-bed2e123-ad8a-4455-ad46-d938c2e31f27.png)
+
+A basic UI of an AI text-to-image tool mixed with inspiration from various social media platforms.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
